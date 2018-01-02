@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+.DS_Store
+.idea
+*.ai
+*.log
+documents
+*.psd
+*.sublime*
+css/
+node_modules/
+Thumbs.db
+build/
+googledabb46ef34847296.html
+sass/
